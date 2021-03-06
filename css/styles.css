@@ -22,6 +22,7 @@ h1 {
     font-weight: normal;
     padding: 4px 20px;
 
+    text-align: left;
 }
 .clear {
     clear: both;
@@ -36,7 +37,7 @@ h1 {
     margin: 0 10px 10px 0;
     width: 205px;
     padding: 10px;
-    height: 290px;
+    height: 320px;
 
     border: #333 solid .5px;
 }
@@ -51,7 +52,7 @@ h2 {
     font-size: 16px;
     display: block;
     border-bottom: 1px solid #ccc;
-    margin: 0 0 10px 0;
+    margin: .5em 0 .5em 0;
     padding: 0 0 5px 0;
 }
 button {
@@ -64,6 +65,9 @@ button {
     margin: 5px 0;
     font-weight: bold;
     cursor: pointer;
+}
+p {
+    margin-top: .5em;
 }
 span {
     float: right;
