@@ -2,48 +2,48 @@
     {
         "id": 1,
         "nombre": "Mascota 1",
-        "teléfono": 987654321,
+        "telefono": 987654321,
         "correo": "correo@correo.com",
-        "país": "Perú"
+        "pais": "Perú"
     }
     ,
     {
         "id": 2,
         "nombre": "Mascota 2",
-        "teléfono": 987654321,
+        "telefono": 987654321,
         "correo": "correo@correo.com",
-        "país": "Perú"
+        "pais": "Perú"
     }
     ,
     {
         "id": 3,
         "nombre": "Mascota 3",
-        "teléfono": 987654321,
+        "telefono": 987654321,
         "correo": "correo@correo.com",
-        "país": "Perú"
+        "pais": "Perú"
     }
     ,
     {
         "id": 4,
         "nombre": "Mascota 4",
-        "teléfono": 987654321,
+        "telefono": 987654321,
         "correo": "correo@correo.com",
-        "país": "Perú"
+        "pais": "Perú"
     }
     ,
     {
         "id": 5,
         "nombre": "Mascota 5",
-        "teléfono": 987654321,
+        "telefono": 987654321,
         "correo": "correo@correo.com",
-        "país": "Perú"
+        "pais": "Perú"
     }
     ,
     {
         "id": 6,
         "nombre": "Mascota 6",
-        "teléfono": 987654321,
+        "telefono": 987654321,
         "correo": "correo@correo.com",
-        "país": "Perú"
+        "pais": "Perú"
     }
 ]
